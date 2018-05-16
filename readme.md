@@ -1,3 +1,3 @@
 Hello 
-Welcome my githun
+Welcome my github
 enjoy~
